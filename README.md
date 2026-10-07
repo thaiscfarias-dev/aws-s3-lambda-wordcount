@@ -129,9 +129,9 @@ def lambda_handler(event, context):
 ```
 
 ## 🧠 Aprendizados e Conclusões
-Computação Serverless: Aplicação prática do conceito de execução de código orientada à demanda sem provisionamento de servidores.
+* **Computação Serverless:** Aplicação prática do conceito de execução de código orientada à demanda sem provisionamento de servidores.
 
-Arquiteturas Event-Driven: Implementação da reatividade a eventos de storage (upload no S3) para automação de pipelines.
+* **Arquiteturas Event-Driven:** Implementação da reatividade a eventos de storage (upload no S3) para automação de pipelines.
 
-IAM & Segurança na AWS: Aplicação de roles de execução para permitir a comunicação segura entre serviços (S3, Lambda e SNS).
+* **IAM & Segurança na AWS:** Aplicação de roles de execução para permitir a comunicação segura entre serviços (S3, Lambda e SNS).
 
