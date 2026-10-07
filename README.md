@@ -115,7 +115,7 @@ def lambda_handler(event, context):
 ```
         
 ## 📂 Estrutura do Repositório
-
+```
 .
 ├── lambda_function.py      # Código em Python executado pela AWS Lambda
 ├── README.md               # Documentação detalhada do projeto
@@ -126,6 +126,7 @@ def lambda_handler(event, context):
     ├── 04-s3-event-trigger.png
     ├── 05-s3-file-upload.png
     └── 06-email-notification.png
+```
 
 ## 🧠 Aprendizados e Conclusões
 Computação Serverless: Aplicação prática do conceito de execução de código orientada à demanda sem provisionamento de servidores.
