@@ -111,7 +111,8 @@ def lambda_handler(event, context):
 
     except Exception as e:
         print(f"Erro ao processar o arquivo: {str(e)}")
-        raise e```
+        raise e
+```
         
 ## 📂 Estrutura do Repositório
 
